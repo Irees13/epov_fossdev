@@ -1,6 +1,8 @@
 from math_demo import (
     add,
-    add_with_bug
+    add_with_bug,
+    tax_calculator_bugged,
+    calculate_tax
     )
     
 def test_addition():
@@ -37,7 +39,23 @@ def test_addition_commutative():
     assert add(9, 5) == 14
     assert add(5, 9) == 14
     print("test COMMUTATIVE PASSED")
-
+    
+def test_tax_calculator_pesticide():
+    assert tax_calculator_bugged(1000) == 150
+    assert tax_calculator_bugged(100) == 15
+    assert tax_calculator_bugged(10) == 1.5
+    assert tax_calculator_bugged(1) == 0.15
+    assert tax_calculator_bugged(234) == 35.1
+    print("Test TAX CALCULATOR PASSED")
+    
+def test_tax_calculator():
+    assert calculate_tax(1000) == 150
+    assert calculate_tax(100) == 15
+    assert calculate_tax(10) == 1.5
+    assert calculate_tax(1) == 0.15
+    assert calculate_tax(234) == 35.1
+    assert calculate_tax(2.34) == 0.35
+    print("Test UNBAGGED TAX CALCULATOR PASSED")
 
 if __name__ == "__main__":
     test_addition()
@@ -46,4 +64,6 @@ if __name__ == "__main__":
     #test_addition_duplicate()
     test_addition_clussters()
     test_addition_commutative()
+    test_tax_calculator_pesticide()
+    test_tax_calculator()
     
