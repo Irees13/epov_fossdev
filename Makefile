@@ -1,3 +1,5 @@
+SHELL := bash.exe
+
 .DEFAULT_GOAL := help
 create-practice:
 ifndef PRACTICE
@@ -5,6 +7,7 @@ ifndef PRACTICE
 endif
 	@echo "Creating practice"
 	mkdir -p $(PRACTICE)
+	cp PracticeMakefile $(PRACTICE)/Makefile
 	
 remove-practice:
 ifndef PRACTICE
