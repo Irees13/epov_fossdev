@@ -1,0 +1,236 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="BL49PccZZSdlxUDV6VHx">
+    <mxGraphModel dx="1094" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="70" width="80" x="100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" target="Mmd_VSw_vs7eiD-S2iwg-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="230" as="sourcePoint" />
+            <mxPoint x="150" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="160" as="sourcePoint" />
+            <mxPoint x="90" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="280" as="sourcePoint" />
+            <mxPoint x="139.41" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="139.41" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="70" width="80" x="100" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" target="Mmd_VSw_vs7eiD-S2iwg-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="700" as="sourcePoint" />
+            <mxPoint x="150" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="630" as="sourcePoint" />
+            <mxPoint x="90" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="750" as="sourcePoint" />
+            <mxPoint x="139.40999999999997" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="750" as="sourcePoint" />
+            <mxPoint x="139.40999999999997" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;opacity=0;fontSize=22;" value="Recepient">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1111" y="40" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="100" y="800" as="sourcePoint" />
+            <mxPoint x="190" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;opacity=0;fontSize=22;strokeColor=light-dark(#000000,#000000);" value="Sender">
+          <mxGeometry height="50" relative="1" width="50" y="40" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="95" y="330" as="sourcePoint" />
+            <mxPoint x="185" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="" vertex="1">
+          <mxGeometry height="710" width="460" x="240" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;opacity=0;fontSize=22;" value="File Transfer Service">
+          <mxGeometry height="50" relative="1" width="50" x="1" y="332" as="geometry">
+            <mxPoint x="239" y="102" as="offset" />
+            <mxPoint x="150" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-16" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=light-dark(#f5f5f5, #ffffff);strokeColor=light-dark(#666666,#000000);gradientColor=none;perimeterSpacing=2;strokeWidth=3;fontColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Email&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="120" x="780" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Send file&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="270" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Upload file&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="414" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-20" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);perimeterSpacing=2;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;File&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Storage&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="123" x="767" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Store file&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="550" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);textShadow=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Specify&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;recepient&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="414" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Get File&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="260" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-27" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-17" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.004;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;dashPattern=8 8;strokeWidth=2;strokeColor=light-dark(#000000,#000000);" target="Mmd_VSw_vs7eiD-S2iwg-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="240" />
+              <mxPoint x="350" y="270" />
+              <mxPoint x="380" y="290" />
+            </Array>
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-28" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-17" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashPattern=8 8;strokeWidth=2;strokeColor=light-dark(#000000,#000000);" target="Mmd_VSw_vs7eiD-S2iwg-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="90" />
+              <mxPoint x="410" y="90" />
+              <mxPoint x="440" y="90" />
+            </Array>
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="563" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-29" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-21" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);strokeWidth=3;" target="Mmd_VSw_vs7eiD-S2iwg-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="220" />
+              <mxPoint x="710" y="180" />
+            </Array>
+            <mxPoint x="680" y="230" as="sourcePoint" />
+            <mxPoint x="730" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-30" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-21" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashPattern=8 8;strokeWidth=2;strokeColor=light-dark(#000000,#000000);" target="Mmd_VSw_vs7eiD-S2iwg-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="170" />
+              <mxPoint x="560" y="160" />
+            </Array>
+            <mxPoint x="520" y="179" as="sourcePoint" />
+            <mxPoint x="664" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);entryX=0.025;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" target="Mmd_VSw_vs7eiD-S2iwg-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="157" as="sourcePoint" />
+            <mxPoint x="260" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);textShadow=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Save file&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;recepient&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="410" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-33" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-32" style="endArrow=classic;html=1;rounded=0;entryX=0.414;entryY=1.018;entryDx=0;entryDy=0;endFill=1;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=light-dark(#000000,#000000);dashed=1;dashPattern=8 8;" target="Mmd_VSw_vs7eiD-S2iwg-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="400" />
+              <mxPoint x="590" y="360" />
+              <mxPoint x="610" y="310" />
+            </Array>
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-34" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-32" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.09;exitY=0.28;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashPattern=8 8;strokeWidth=2;strokeColor=light-dark(#000000,#000000);exitPerimeter=0;" target="Mmd_VSw_vs7eiD-S2iwg-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+            </Array>
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="423" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);textShadow=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Get file list&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-36" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-35" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashPattern=1 2;strokeWidth=2;strokeColor=light-dark(#000000,#000000);entryX=0.418;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" target="Mmd_VSw_vs7eiD-S2iwg-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="690" />
+              <mxPoint x="470" y="660" />
+            </Array>
+            <mxPoint x="400" y="585" as="sourcePoint" />
+            <mxPoint x="393" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);textShadow=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Send email&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);perimeterSpacing=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);textShadow=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Get availible&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-39" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-23" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.594;exitY=0.024;exitDx=0;exitDy=0;dashPattern=8 8;strokeWidth=2;strokeColor=light-dark(#000000,#000000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="Mmd_VSw_vs7eiD-S2iwg-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="620" />
+              <mxPoint x="370" y="590" />
+            </Array>
+            <mxPoint x="469" y="665" as="sourcePoint" />
+            <mxPoint x="380" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-40" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-37" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;exitX=0.242;exitY=0.079;exitDx=0;exitDy=0;dashPattern=1 2;strokeWidth=2;strokeColor=light-dark(#000000,#000000);entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="Mmd_VSw_vs7eiD-S2iwg-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="570" />
+            </Array>
+            <mxPoint x="589" y="700" as="sourcePoint" />
+            <mxPoint x="500" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-41" edge="1" parent="1" source="Mmd_VSw_vs7eiD-S2iwg-37" style="curved=1;endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endFill=0;" target="Mmd_VSw_vs7eiD-S2iwg-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="590" />
+              <mxPoint x="760" y="590" />
+              <mxPoint x="740" y="590" />
+              <mxPoint x="700" y="590" />
+            </Array>
+            <mxPoint x="790" y="580" as="sourcePoint" />
+            <mxPoint x="840" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmd_VSw_vs7eiD-S2iwg-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);strokeWidth=4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="208" y="699.5" as="sourcePoint" />
+            <mxPoint x="260" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
